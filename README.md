@@ -76,13 +76,13 @@ A responsive travel website showcasing destinations, travel packages, and bookin
 
 I’m always open to collaboration, feedback, or just a good tech conversation!  
 
-- Connect with me on
--
--   **LinkedIn**: https://www.linkedin.com/in/lingala-shilpa-158955262 
--
--  Explore more projects here on
--
-- **GitHub**: https://github.com/lingalashilpa
+ Connect with me on
+
+   **LinkedIn**: https://www.linkedin.com/in/lingala-shilpa-158955262 
+
+  Explore more projects here on
+
+ **GitHub**: https://github.com/lingalashilpa
 
 
 *Thank you for visiting my profile! 🌟*
