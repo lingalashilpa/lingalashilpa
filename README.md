@@ -13,8 +13,6 @@ Learning daily and sharing code with the world.
 - 📍 Based in **Hyderabad**.  
 - 🔗 Connect with me:
 
-**| Platform | Link |**
-
  LinkedIn: https://www.linkedin.com/in/lingala-shilpa-158955262 
 
  GitHub: https://github.com/lingalashilpa
