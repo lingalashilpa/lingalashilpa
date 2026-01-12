@@ -7,7 +7,7 @@ Learning daily and sharing code with the world.
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer with hands‑on experience building responsive and user‑friendly web applications.  
+- 💻 Frontend Developer with hands‑on experience building responsive and user‑friendly web           applications.  
 - 🐍 Python enthusiast exploring data science, machine learning, and practical AI notebooks.  
 - 🌱 Always learning new technologies and improving my developer skills.  
 - 📍 Based in **Hyderabad**.  
@@ -15,9 +15,9 @@ Learning daily and sharing code with the world.
 
 **| Platform | Link |**
 
- LinkedIn :https://www.linkedin.com/in/lingala-shilpa-158955262 
+ LinkedIn: https://www.linkedin.com/in/lingala-shilpa-158955262 
 
- GitHub   :https://github.com/lingalashilpa
+ GitHub: https://github.com/lingalashilpa
 
 
 ## 💼 Skills
@@ -31,7 +31,7 @@ Python · Jupyter Notebooks
 **Other:**  
 Responsive Web Design · Git & GitHub · AI Tooling
 
----
+
 
 ## 📦 Projects Highlights
 
@@ -68,9 +68,6 @@ An interactive quiz application built using HTML, CSS, and JavaScript. Features 
 A responsive travel website showcasing destinations, travel packages, and booking-style UI. Built using HTML, CSS, and JavaScript with a user-friendly design.
 
 
-> *…and several other repositories exploring frontend and Python projects.*
-
----
 
 ## 📫 Let’s Connect
 
@@ -84,5 +81,9 @@ I’m always open to collaboration, feedback, or just a good tech conversation!
 
  **GitHub**: https://github.com/lingalashilpa
 
+ 
+ 
+🌟 Thank you for visiting my profile! 🌟
 
-*Thank you for visiting my profile! 🌟*
+
+
