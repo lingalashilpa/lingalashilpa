@@ -11,11 +11,6 @@ Learning daily and sharing code with the world.
 - 🐍 Python enthusiast exploring data science, machine learning, and practical AI notebooks.  
 - 🌱 Always learning new technologies and improving my developer skills.  
 - 📍 Based in **Hyderabad**.  
-- 🔗 Connect with me:
-
- LinkedIn: https://www.linkedin.com/in/lingala-shilpa-158955262 
-
- GitHub: https://github.com/lingalashilpa
 
 
 ## 💼 Skills
@@ -71,11 +66,11 @@ A responsive travel website showcasing destinations, travel packages, and bookin
 
 I’m always open to collaboration, feedback, or just a good tech conversation!  
 
- Connect with me on
+ Connect with me on:
 
    **LinkedIn**: https://www.linkedin.com/in/lingala-shilpa-158955262 
 
-  Explore more projects here on
+  Explore more projects here on:
 
  **GitHub**: https://github.com/lingalashilpa
 
