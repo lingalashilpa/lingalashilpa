@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Shilpa Lingala**
 
-**Passionate Frontend Developer** | **Python Enthusiast** | **Building real‑world projects with React, HTML, CSS, JavaScript & AI tools**  
+**Passionate Frontend Developer** | **java,Python Enthusiast** | **Building real‑world projects with React, HTML, CSS, JavaScript & AI tools**  
 Learning daily and sharing code with the world.
 
 
